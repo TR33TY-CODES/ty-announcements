@@ -11,4 +11,4 @@ Otherwise, it won't work properly!
 
 I wrote this for **QBCore** but you can easily modify it for **ESX** or even use it **Standalone**.
 
-[YOU NEED]([https://github.com/TR33TY-CODES/ty-announcements](https://youtu.be/c6pbXXQfFJA?si=61KUaP2MCNTsYEHg)
+[YOU NEED](https://youtu.be/c6pbXXQfFJA?si=61KUaP2MCNTsYEHg)
